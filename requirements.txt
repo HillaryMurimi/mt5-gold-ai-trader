@@ -1,0 +1,11 @@
+MetaTrader5
+pandas
+numpy
+scikit-learn
+tensorflow
+transformers
+beautifulsoup4
+requests
+python-dotenv
+tqdm
+matplotlib
